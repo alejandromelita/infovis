@@ -1,0 +1,12 @@
+q-q plot
+Stem-and-Leaf Plots
+Brushing-and-linking
+Squarified treemaps
+edge crossings
+Choropleth Maps
+Graduated Symbol Maps
+Indented trees
+Adjacency diagrams
+Enclosure diagrams
+Force-Directed Layout
+Arc Diagrams
