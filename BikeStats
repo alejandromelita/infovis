@@ -1,22 +1,22 @@
-Date	Distance (km)	Duration (minutes)	Avg speed	Max speed	Elev Gain (M)	Min Elev (M)	Max Elev (M)	Calories	Departure
-01/08/2021	2.5	13.07	11.44	23.2	10	57	70	59	18:10:00
-02/08/2021	5.4	26.22	12.3	21.6	29	46	70	118	20:24:00
-03/08/2021	1.6	7.12	11.58	21.3	17	52	70	35	11:10:00
-03/08/2021	2.39	12.5	11.1	23.9	10	53	68	58	16:30:00
-04/08/2021	2.41	19.14	7.5	20.8	11	67	79	86	17:27:00
-05/08/2021	5	22.17	13.5	23.4	21	49	68	100	14:47:00
-05/08/2021	4.8	38.29	7.5	43.7	22	46	68	172	20:33:00
-06/08/2021	1.65	7.47	12.68	23.9	17	52	70	35	13:30:00
-07/08/2021	15.21	68.38	13.3	25.3	61	40	69	308	14:23:00
-07/08/2021	1.4	10.02	7.1	17.5	5	67	79	49	20:07:00
-08/08/2021	4	19.59	12	31.8	26	52	69	90	13:31:00
-09/08/2021	0.52	3.45	8.3	17	3	66	70	17	11:30:00
-10/08/2021	4.31	29.08	8.9	25.5	20	57	77	131	16:31:00
-11/08/2021	1.77	16.15	6.4	21.3	10	58	69	69	6:25:00
-11/08/2021	2.23	11.41	11.5	19.2	10	53	68	52	10:48:00
-11/08/2021	5.07	28.05	8.8	21.6	29	49	69	99	10:28:00
-12/08/2021	2.56	17.12	8.9	30.5	11	56	70	77	18:16:00
-13/08/2021	1.87	17.02	6.6	22.3	9	56	68	76	17:28:00
-14/08/2021	5.32	31.07	9.2	23.6	31	47	70	109	10:28:00
-14/08/2021	1.92	26.02	4.4	21.8	10	57	68	117	11:00:00
-15/08/2021	1.44	11.01	7.9	17.3	4	63	68	49	21:25:00
+Date	Activity	Distance (km)	Duration (minutes)	Avg speed	Max speed	Elev Gain (M)	Min Elev (M)	Max Elev (M)	Calories	Departure	Time of the day	City	Country
+01/08/2021	Cycling	2.50	13.07	11.44	23.20	10	57	70	59	18:10:00	Afternoon	Maastricht	Netherlands
+02/08/2021	Cycling	10.90	42.22	12.30	21.60	29	46	70	218	20:24:00	Evening	Vise	Belgium
+03/08/2021	Cycling	1.60	7.12	11.58	21.30	17	52	70	35	11:10:00	Morning	Maastricht	Netherlands
+03/08/2021	Cycling	2.39	12.50	11.10	23.90	10	53	68	58	16:30:00	Afternoon	Maastricht	Netherlands
+04/08/2021	Cycling	2.41	19.14	7.50	20.80	11	67	79	86	17:27:00	Afternoon	Maastricht	Netherlands
+05/08/2021	Cycling	5.00	22.17	13.50	23.40	21	49	68	100	14:47:00	Afternoon	Maastricht	Netherlands
+05/08/2021	Cycling	4.80	38.29	7.50	43.70	22	46	68	172	20:33:00	Evening	Maastricht	Netherlands
+06/08/2021	Cycling	1.65	7.47	12.68	23.90	17	52	70	35	13:30:00	Afternoon	Maastricht	Netherlands
+07/08/2021	Cycling	15.21	68.38	13.30	25.30	61	40	69	308	14:23:00	Afternoon	Lanaken	Belgium
+07/08/2021	Cycling	1.40	10.02	7.10	17.50	5	67	79	49	20:07:00	Evening	Maastricht	Netherlands
+08/08/2021	Cycling	4.00	19.59	12.00	31.80	26	52	69	90	13:31:00	Afternoon	Maastricht	Netherlands
+09/08/2021	Cycling	0.52	3.45	8.30	17.00	3	66	70	17	11:30:00	Morning	Maastricht	Netherlands
+10/08/2021	Cycling	4.31	29.08	8.90	25.50	20	57	77	131	16:31:00	Afternoon	Maastricht	Netherlands
+11/08/2021	Cycling	1.77	16.15	6.40	21.30	10	58	69	69	06:25:00	Morning	Maastricht	Netherlands
+11/08/2021	Cycling	2.23	11.41	11.50	19.20	10	53	68	52	10:48:00	Morning	Maastricht	Netherlands
+11/08/2021	Cycling	5.07	28.05	8.80	21.60	29	49	69	99	10:28:00	Morning	Maastricht	Netherlands
+12/08/2021	Cycling	2.56	17.12	8.90	30.50	11	56	70	77	18:16:00	Afternoon	Maastricht	Netherlands
+13/08/2021	Cycling	1.87	17.02	6.60	22.30	9	56	68	76	17:28:00	Afternoon	Maastricht	Netherlands
+14/08/2021	Cycling	5.33	31.07	9.20	23.60	31	47	70	109	10:28:00	Morning	Maastricht	Netherlands
+14/08/2021	Cycling	1.92	26.02	4.40	21.80	10	57	68	117	11:00:00	Morning	Maastricht	Netherlands
+15/08/2021	Cycling	1.44	11.01	7.90	17.30	4	63	68	49	21:25:00	Evening	Maastricht	Netherlands
